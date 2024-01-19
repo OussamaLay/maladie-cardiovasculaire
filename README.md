@@ -1,5 +1,4 @@
 There are 3 types of input features:
-
     - Objective: factual information;
     - Examination: results of medical examination;
     - Subjective: information given by the patient.
