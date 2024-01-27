@@ -28,3 +28,12 @@ Features:
     Physical activity           | Subjective Feature    | active        | binary |
     
     Presence or absence of cardiovascular disease | Target Variable | cardio | binary |
+
+
+LogisticRegression
+DecisionTree
+RandomForest
+SVM
+KNN
+XGBoost
+NeuralNetwork
