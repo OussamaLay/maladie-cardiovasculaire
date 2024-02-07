@@ -1,3 +1,5 @@
+Description du projet (Voir PDF)
+
 There are 3 types of input features:
 - Objective: factual information;
 - Examination: results of medical examination;
